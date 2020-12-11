@@ -1,0 +1,153 @@
+.mediaViewInfo {
+	--web-view-name: Down 2;
+	--web-view-id: Down_2;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Down_2;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Down_2 {
+	position: absolute;
+	width: 1920px;
+	height: 1708px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Down 2;
+	--web-view-id: Down_2;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+#Rectangle {
+	fill: rgba(0,0,0,0.251);
+}
+.Rectangle {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 1042px;
+	left: 0px;
+	top: 2px;
+}
+#Group {
+	position: absolute;
+	width: 500px;
+	height: 305px;
+	left: 694px;
+	top: 371px;
+	overflow: visible;
+}
+#BG {
+	fill: rgba(255,255,255,1);
+}
+.BG {
+	filter: drop-shadow(0px 2px 5px rgba(0, 0, 0, 0.102));
+	position: absolute;
+	overflow: visible;
+	width: 515px;
+	height: 320px;
+	left: 0px;
+	top: 0px;
+}
+#_ {
+	left: 196px;
+	top: 235px;
+	position: absolute;
+	overflow: visible;
+	width: 107px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: NotoSansCJKkr-Medium;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(105,158,255,1);
+}
+#iconx {
+	position: absolute;
+	width: 16px;
+	height: 16px;
+	left: 468px;
+	top: 16px;
+	overflow: visible;
+}
+#Combined_Shape {
+	fill: rgba(124,131,144,1);
+}
+.Combined_Shape {
+	overflow: visible;
+	position: absolute;
+	width: 16px;
+	height: 16px;
+	transform: translate(0px, 0px) matrix(1,0,0,1,0,-0.0001) rotate(-45deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+#buttonmedium {
+	position: absolute;
+	width: 300px;
+	height: 50px;
+	left: 100px;
+	top: 155px;
+	overflow: visible;
+}
+#Rectangle_Copy_2 {
+	fill: rgba(105,158,255,1);
+}
+.Rectangle_Copy_2 {
+	position: absolute;
+	overflow: visible;
+	width: 300px;
+	height: 50px;
+	left: 0px;
+	top: 0px;
+}
+# {
+	left: 0px;
+	top: 15px;
+	position: absolute;
+	overflow: visible;
+	width: 301px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: NotoSansCJKkr-Medium;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(255,255,255,1);
+}
+#___ {
+	left: 111px;
+	top: 50px;
+	position: absolute;
+	overflow: visible;
+	width: 278px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: NotoSansCJKkr-Bold;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(64,64,64,1);
+}
+#____ {
+	left: 129px;
+	top: 85.96px;
+	position: absolute;
+	overflow: visible;
+	width: 243px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: NotoSansCJKkr-Regular;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(64,64,64,1);
+}

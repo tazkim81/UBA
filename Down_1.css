@@ -1,0 +1,148 @@
+.mediaViewInfo {
+	--web-view-name: Down 1;
+	--web-view-id: Down_1;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Down_1;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Down_1 {
+	position: absolute;
+	width: 1920px;
+	height: 1708px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Down 1;
+	--web-view-id: Down_1;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+#Group_2 {
+	position: absolute;
+	width: 771px;
+	height: 575px;
+	left: 531px;
+	top: 390px;
+	overflow: visible;
+}
+#_ {
+	position: absolute;
+	width: 771px;
+	height: 575px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Rectangle {
+	fill: transparent;
+	stroke: rgba(244,246,250,1);
+	stroke-width: 10px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 10;
+	shape-rendering: auto;
+}
+.Rectangle {
+	position: absolute;
+	overflow: visible;
+	width: 791px;
+	height: 595px;
+	left: 0px;
+	top: 0px;
+}
+#__ {
+	left: 861px;
+	top: 75px;
+	position: absolute;
+	overflow: visible;
+	width: 111px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: NotoSansCJKkr-Medium;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(64,64,64,1);
+}
+#buttonmedium {
+	position: absolute;
+	width: 300px;
+	height: 50px;
+	left: 765px;
+	top: 145px;
+	overflow: visible;
+}
+#Rectangle_Copy_2 {
+	fill: rgba(105,158,255,1);
+}
+.Rectangle_Copy_2 {
+	position: absolute;
+	overflow: visible;
+	width: 300px;
+	height: 50px;
+	left: 0px;
+	top: 0px;
+}
+# {
+	left: 0px;
+	top: 15px;
+	position: absolute;
+	overflow: visible;
+	width: 301px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: NotoSansCJKkr-Medium;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(255,255,255,1);
+}
+#Mac_OS_X_1010_ {
+	left: 865px;
+	top: 205px;
+	position: absolute;
+	overflow: visible;
+	width: 101px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: NotoSansCJKkr-Regular;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 10px;
+	color: rgba(124,131,144,1);
+}
+#__ba {
+	left: 862px;
+	top: 270px;
+	position: absolute;
+	overflow: visible;
+	width: 107px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Dashboard_1.html;
+	cursor: pointer;
+	text-align: center;
+	font-family: NotoSansCJKkr-Medium;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(105,158,255,1);
+}
